@@ -1,6 +1,6 @@
 /* Estilos básicos para testar */
 body {
-  background-color: #f0f0f0; /* cor de fundo */
+  background-color: #6750ce; /* cor de fundo */
   font-family: Arial, sans-serif; /* fonte padrão */
   margin: 20px;
 }
@@ -17,7 +17,7 @@ p {
 }
 
 button {
-  background-color: #3498db; /* azul */
+  background-color: #db34b1; /* azul */
   color: white;
   border: none;
   padding: 10px 20px;
